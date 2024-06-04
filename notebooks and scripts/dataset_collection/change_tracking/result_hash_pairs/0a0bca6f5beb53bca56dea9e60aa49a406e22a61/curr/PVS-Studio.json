@@ -1,0 +1,87 @@
+{
+  "version": 2,
+  "warnings": [
+    {
+      "code": "V6009",
+      "cwe": 628,
+      "level": 1,
+      "positions": [
+        {
+          "file": "/home/qqushka/First_attempts_in_LLM/notebooks_and_scripts/dataset_collection/change_tracking/result_hash_pairs/0a0bca6f5beb53bca56dea9e60aa49a406e22a61/curr/core/src/test/java/org/elasticsearch/index/query/AbstractQueryTestCase.java",
+          "line": 617,
+          "endLine": 617,
+          "column": 54,
+          "endColumn": 82,
+          "navigation": {
+            "previousLine": -1635788796,
+            "currentLine": 237857663,
+            "nextLine": 798663870,
+            "columns": 0
+          }
+        }
+      ],
+      "message": "Function \u0027equals\u0027 receives an odd argument. An object \u0027firstQuery\u0027 is used as an argument to its own method.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V6009",
+      "cwe": 628,
+      "level": 1,
+      "positions": [
+        {
+          "file": "/home/qqushka/First_attempts_in_LLM/notebooks_and_scripts/dataset_collection/change_tracking/result_hash_pairs/0a0bca6f5beb53bca56dea9e60aa49a406e22a61/curr/core/src/test/java/org/elasticsearch/index/query/AbstractQueryTestCase.java",
+          "line": 622,
+          "endLine": 622,
+          "column": 54,
+          "endColumn": 84,
+          "navigation": {
+            "previousLine": 532841612,
+            "currentLine": 1335624121,
+            "nextLine": 1996865928,
+            "columns": 0
+          }
+        }
+      ],
+      "message": "Function \u0027equals\u0027 receives an odd argument. An object \u0027secondQuery\u0027 is used as an argument to its own method.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "Renew",
+      "cwe": 0,
+      "level": 1,
+      "positions": [],
+      "message": "Your license will expire in 5 days. Click \u0027Renew\u0027 to learn more or contact us at support@viva64.com.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V6009",
+      "cwe": 628,
+      "level": 1,
+      "positions": [
+        {
+          "file": "/home/qqushka/First_attempts_in_LLM/notebooks_and_scripts/dataset_collection/change_tracking/result_hash_pairs/0a0bca6f5beb53bca56dea9e60aa49a406e22a61/curr/core/src/test/java/org/elasticsearch/index/query/AbstractQueryTestCase.java",
+          "line": 628,
+          "endLine": 628,
+          "column": 54,
+          "endColumn": 82,
+          "navigation": {
+            "previousLine": 1065634702,
+            "currentLine": 1445739898,
+            "nextLine": 1284737410,
+            "columns": 0
+          }
+        }
+      ],
+      "message": "Function \u0027equals\u0027 receives an odd argument. An object \u0027thirdQuery\u0027 is used as an argument to its own method.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    }
+  ]
+}
